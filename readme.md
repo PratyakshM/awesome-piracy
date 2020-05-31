@@ -1279,6 +1279,8 @@ premium services
 - [UDS](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) Regularly updated table of information about top cloud storage providers.
+- [Unlimited shared Google Drive](https://td.fastio.me/) Free Unlimited Shared Google Drive
+- 5TB OneDrive storage - Grab email from [here](https://xkx.me) and register [here](https://www.microsoft.com/en-in/education/products/office) as a student
 
 ## File Renaming and Tagging
 - [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
